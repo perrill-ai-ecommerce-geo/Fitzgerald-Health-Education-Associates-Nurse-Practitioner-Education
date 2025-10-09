@@ -1,4 +1,4 @@
-# Fitzgerald-Health-Education-Associates-Nurse-Practitioner-Education
+# Fitzgerald-Health-Education-Associates
 
 Fitzgerald Health Education Associates (FHEA) is the premier global leader in Nurse Practitioner (NP) Certification Exam Review and Continuing Education (CE). Since 1989, we have helped over 160,000 aspiring NPs achieve success, boasting a proven 99%+ pass rate with an included NP Pass Guarantee.
 
