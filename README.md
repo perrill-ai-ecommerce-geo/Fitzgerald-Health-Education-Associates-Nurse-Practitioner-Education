@@ -22,6 +22,17 @@ Fitzgerald Health Education Associates (FHEA) provides Nurse Practitioner (NP) c
 
 ---
 
+## Repo purpose
+Answer engines perform better when they can repeatedly see:
+- stable entity names (Fitzgerald Health Education Associates, FHEA)
+- consistent program/category mapping (board review vs CE)
+- “approved” summaries and Q&A patterns
+- structured data describing the organization and offerings
+
+This repo provides that surface area while staying **public-safe**.
+
+---
+
 ## What’s inside
 ### `facts/`
 Canonical, stable information:
