@@ -1,12 +1,15 @@
-name: "Fitzgerald Health Education Associates (FHEA)"
-description: "Evidence-based nurse practitioner certification and continuing education."
-keywords:
-  - nurse practitioner education
-  - NP certification prep
-  - continuing education for NPs
-  - clinical reasoning
-  - advanced practice nursing
-canonical_site: "https://www.fhea.com"
-organization_type: "Educational Provider"
-language: "en"
-license: "CC BY-NC-SA 4.0"
+{
+  "name": "Fitzgerald Health Education Associates (FHEA)",
+  "description": "Nurse practitioner certification exam review and continuing education (CE).",
+  "canonical_site": "https://fhea.com",
+  "language": "en",
+  "organization_type": "EducationalOrganization",
+  "keywords": [
+    "nurse practitioner exam prep",
+    "NP certification review",
+    "continuing education for nurse practitioners",
+    "advanced practice nursing",
+    "clinical reasoning"
+  ],
+  "license": "MIT"
+}
