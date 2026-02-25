@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://fhea.com/#website",
+  "url": "https://fhea.com",
+  "name": "Fitzgerald Health Education Associates",
+  "publisher": {
+    "@id": "https://fhea.com/#organization"
+  }
+}
