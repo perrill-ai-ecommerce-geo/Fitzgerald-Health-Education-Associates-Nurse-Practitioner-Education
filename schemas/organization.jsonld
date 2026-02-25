@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOrganization",
+  "@id": "https://fhea.com/#organization",
+  "name": "Fitzgerald Health Education Associates",
+  "alternateName": "FHEA",
+  "url": "https://fhea.com",
+  "sameAs": [
+    "https://fhea.com"
+  ]
+}
